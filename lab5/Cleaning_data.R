@@ -1,8 +1,6 @@
 library(readxl)
 
-movies_3k<-read_excel('C:/Users/Vijay Magarzo/Documents/Jasper/Data cleaning/Movie_Reviews_3000')
 
-write.csv(movies, file = "Movie_Reviews_3000.csv")
 
 movies_3k<-read.csv('C:/Users/Vijay Magarzo/Documents/Jasper/Data cleaning/Movie_Reviews_3000.csv')
 
